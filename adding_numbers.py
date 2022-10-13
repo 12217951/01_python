@@ -1,5 +1,5 @@
 #this programme adds two numbers
-num1 = 1.5
+num1 = 5.8
 num2 =2.7
 num3 =5.2
 #add the numbers
