@@ -1,0 +1,25 @@
+txt="Hello World!"[::-1]
+print(txt)
+
+
+
+#CREATING A FUNCION
+def my_function(x):
+     return x[::-1]
+my_txt=my_function("Hard work is the key to success")
+print(my_txt)
+
+#CREATING ANOTHER FUNCTION
+def my_second_function(y):
+    return y[::-1]
+my_second_txt= my_second_function("servicee before self!!!")
+print(my_second_txt)
+#USING IF , ELSE, ELF 
+if txt==my_txt:
+    print("True")
+elif my_txt==my_second_txt:
+    print("True")
+else:
+    print("False")
+
+
